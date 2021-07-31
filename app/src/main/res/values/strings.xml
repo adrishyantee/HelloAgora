@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloAgora</string>
+    <string name="appId">55c396079c07463a916d72de7f6aa3ad</string>
+    <string name="token">00655c396079c07463a916d72de7f6aa3adIADKYf+mD0xoMtqFfbCJDCtXllXjUdLyPvekt33QAOmRbMe9tu0AAAAAEAB8iSkWiU76YAEAAQCJTvpg</string>
+    <string name="channelname">HelloAgora</string>
+</resources>
